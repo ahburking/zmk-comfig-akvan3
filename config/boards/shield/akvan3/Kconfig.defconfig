@@ -1,0 +1,6 @@
+if SHIELD_AKVAN2
+
+config ZMK_KEYBOARD_NAME
+    default "akvan3"
+
+endif
