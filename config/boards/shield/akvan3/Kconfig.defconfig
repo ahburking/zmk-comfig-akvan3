@@ -1,4 +1,4 @@
-if SHIELD_AKVAN2
+if SHIELD_AKVAN3
 
 config ZMK_KEYBOARD_NAME
     default "akvan3"
